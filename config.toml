@@ -1,0 +1,34 @@
+baseURL = "http://ppww.theotherday.de/"
+defaultContentLanguage = "de"
+title = "Piffle Paffle Wiffle Waffle Podcast"
+theme = "hallo"
+
+[author]
+    name = "Jens und Nikas Wiese"
+
+[params]
+    greeting = "Links"
+
+    [[params.links]]
+        icon = "spotify"
+        title = "Podcast bei Spotify"
+        url = "https://open.spotify.com/show/5bkojM6HVGiWwcKAGFqwL0"
+    [[params.links]]
+        icon = "apple"
+        title = "Podcast bei Apple Podcasts"
+        url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=de"
+    [[params.links]]
+        icon = "google"
+        title = "Podcast bei Google Podcasts"
+        url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM"
+    [[params.links]]
+        iconset = "fas"
+        icon = "rss-square"
+        title = "Podcast Feed"
+        url = "https://ppww.podigee.io/feed/mp3"
+
+
+[params.colors]
+    background = "black"
+    foreground = "#edf7ff"
+    hover = "orange"
