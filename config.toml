@@ -1,6 +1,6 @@
 baseURL = "http://ppww.theotherday.de/"
 defaultContentLanguage = "de"
-title = "Piffle Paffle Wiffle Waffle Podcast"
+title = "Piffle-Paffle Wiffle-Waffle Podcast"
 theme = "hallo"
 
 [author]
@@ -26,7 +26,6 @@ theme = "hallo"
         icon = "rss-square"
         title = "Podcast Feed"
         url = "https://ppww.podigee.io/feed/mp3"
-
 
 [params.colors]
     background = "black"
