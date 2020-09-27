@@ -1,4 +1,4 @@
-baseURL = "http://ppww.theotherday.de/"
+baseURL = "https://ppww-podcast.theotherday.de/"
 defaultContentLanguage = "de"
 title = "Piffle-Paffle Wiffle-Waffle Podcast"
 theme = "hallo"
