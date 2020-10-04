@@ -27,7 +27,24 @@ theme = "hallo"
         title = "Podcast Feed"
         url = "https://ppww.podigee.io/feed/mp3"
 
+    [params.currentEpisode]
+        title = "Die Folge ohne Rap"
+
+        [[params.currentEpisode.links]]
+            title = "Spotify"
+            url = "https://open.spotify.com/episode/4YzlVxB1njkIpBBT64O25O"
+        [[params.currentEpisode.links]]
+            title = "Apple Podcasts"
+            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en&i=1000493482313"
+        [[params.currentEpisode.links]]
+            title = "Google Podcasts"
+            url = ""
+        [[params.currentEpisode.links]]
+            title = "Deezer"
+            url = ""
+
 [params.colors]
     background = "black"
     foreground = "#edf7ff"
     hover = "orange"
+

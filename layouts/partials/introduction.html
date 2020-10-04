@@ -2,9 +2,16 @@
    Hier findet Ihr alle relevanten Links unseres Podcasts <strong>Piffle-Paffle Wiffle-Waffle</strong>.
 </p>
 <ul>
-   <li><a href="https://open.spotify.com/episode/0vgfjUEhzdhQOKjIGKf6XX?si=31-kMgrHRV2YKOZilUehjg">Aktuelle Episode bei Spotify</a></li>
-   <li><a href="https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en#episodeGuid=847a8b8a689f3b2484d96d5d39870915">Aktuelle Episode bei Apple Podcats</a></li>
-   <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/ODQ3YThiOGE2ODlmM2IyNDg0ZDk2ZDVkMzk4NzA5MTU">Aktuelle Episode bei Google Podcasts</a></li>
+   <li>Aktuelle Episode "<strong>{{ $.Site.Params.currentEpisode.title }}</strong>"</li>
+   <ul>
+      {{- range $.Site.Params.currentEpisode.links -}}
+         {{ if .url }}
+            <li>
+               bei <a href="{{ .url | safeURL }}">{{ .title }}</a>
+            </li>
+         {{ end }}
+      {{- end -}}
+   </ul>
    <li><a href="https://open.spotify.com/playlist/42WICj6hxEiwdJVmSPSHOx">Musikbetankung für Ahnungslose (Spotify Playlist)</a></li>
    <li><a href="https://ppww.podigee.io/">Unser Blog bei Podigee</a></li>
 </ul>
