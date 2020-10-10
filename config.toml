@@ -1,4 +1,4 @@
-baseURL = "https://ppww-podcast.theotherday.de/"
+baseURL = "https://www.jens.und.nikas.de/"
 defaultContentLanguage = "de"
 title = "Piffle-Paffle Wiffle-Waffle Podcast"
 theme = "hallo"
@@ -28,17 +28,17 @@ theme = "hallo"
         url = "https://ppww.podigee.io/feed/mp3"
 
     [params.currentEpisode]
-        title = "Die Folge ohne Rap"
+        title = "Das Duell der Battle-Wraps"
 
         [[params.currentEpisode.links]]
             title = "Spotify"
-            url = "https://open.spotify.com/episode/4YzlVxB1njkIpBBT64O25O"
+            url = "https://open.spotify.com/episode/7IOgAElq1atHRsvkjL09V1"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en&i=1000493482313"
+            url = ""
         [[params.currentEpisode.links]]
             title = "Google Podcasts"
-            url = ""
+            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/MWU1M2E1MTY4NTZlYjhiMTZjYTc4NGUxMzE3NjE5ODQ"
         [[params.currentEpisode.links]]
             title = "Deezer"
             url = ""
