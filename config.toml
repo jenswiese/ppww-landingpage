@@ -22,6 +22,10 @@ theme = "hallo"
         title = "Podcast bei Google Podcasts"
         url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM"
     [[params.links]]
+        icon = "soundcloud"
+        title = "Wir bei Soundcloud"
+        url = "https://soundcloud.com/ppww-podcast"
+    [[params.links]]
         iconset = "fas"
         icon = "rss-square"
         title = "Podcast Feed"
