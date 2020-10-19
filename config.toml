@@ -45,7 +45,7 @@ theme = "hallo"
             url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/MjRhNDQyNTVlMTdhNGEzMDE1YTg4ZWY3ODUyNjdmMGY"
         [[params.currentEpisode.links]]
             title = "Deezer"
-            url = ""
+            url = "https://deezer.page.link/qyLXJy898nh77esH8"
 
 [params.colors]
     background = "black"
