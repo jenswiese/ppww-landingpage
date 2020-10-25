@@ -32,20 +32,20 @@ theme = "hallo"
         url = "https://ppww.podigee.io/feed/mp3"
 
     [params.currentEpisode]
-        title = "Wende, Halse und andere komische Geschichten"
+        title = "30 Jahre Podcast"
 
         [[params.currentEpisode.links]]
             title = "Spotify"
-            url = "https://open.spotify.com/episode/4QWMEp7RqoHBs6SBEFVD5z"
+            url = "https://open.spotify.com/episode/7HlfLkUaZFneVM29ttwM6M"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en&i=1000495115441"
+            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en#episodeGuid=1d3bc243681a4aebbcbb3c8a7383303f"
         [[params.currentEpisode.links]]
             title = "Google Podcasts"
-            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/MjRhNDQyNTVlMTdhNGEzMDE1YTg4ZWY3ODUyNjdmMGY"
+            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/MWQzYmMyNDM2ODFhNGFlYmJjYmIzYzhhNzM4MzMwM2Y"
         [[params.currentEpisode.links]]
             title = "Deezer"
-            url = "https://deezer.page.link/qyLXJy898nh77esH8"
+            url = ""
 
 [params.colors]
     background = "black"
