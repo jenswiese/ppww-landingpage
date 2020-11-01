@@ -1,9 +1,12 @@
 <p>
    Hier findet Ihr alle relevanten Links unseres Podcasts <strong>Piffle-Paffle Wiffle-Waffle</strong>.
 </p>
-<ul>
-   <li><a href="https://soundcloud.com/ppww-podcast/jubilaumsrap-feat-mc-nele" target="_blank">Jubiläumsrap feat. MC Nele</a></li>
-</ul>
+
+{{ if $.Site.Params.special.url }}
+   <ul>
+      <li><a href="{{ $.Site.Params.special.url | safeURL }}" target="_blank">{{ $.Site.Params.special.title}}</a></li>
+   </ul>
+{{ end }}
 
 <ul>
    <li>Aktuelle Episode "<strong>{{ $.Site.Params.currentEpisode.title }}</strong>"</li>
