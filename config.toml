@@ -32,24 +32,24 @@ theme = "hallo"
         url = "https://ppww.podigee.io/feed/mp3"
 
     [params.special]
-        title = "Jubiläumsrap feat. MC Nele"
-        url = "https://soundcloud.com/ppww-podcast/jubilaumsrap-feat-mc-nele"
+        title = ""
+        url = ""
 
     [params.currentEpisode]
-        title = "Ein Quadratfuß in Schottland"
+        title = "Männerabend und Pizza"
 
         [[params.currentEpisode.links]]
             title = "Spotify"
-            url = "https://open.spotify.com/episode/1Mw7czPdzJ6XRvS9QZL4wJ"
+            url = "https://open.spotify.com/episode/08FtIkeMzONvg98OogJtgF"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en#episodeGuid=ba5732bb8b41f1e4ded22a5e9eb34772"
+            url = "https://podcasts.apple.com/us/podcast/m%C3%A4nnerabend-und-pizza/id1507539185?i=1000497607437"
         [[params.currentEpisode.links]]
             title = "Google Podcasts"
-            url = ""
+            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/MzZjNDk3NDFlZjI4NWYyYTY3OGIwNTljNDhjYjBhNWM"
         [[params.currentEpisode.links]]
             title = "Deezer"
-            url = "https://deezer.page.link/W7yDrPGgpQfEq6EL9"
+            url = ""
 
 [params.colors]
     background = "black"
