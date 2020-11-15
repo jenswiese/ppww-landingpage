@@ -36,20 +36,20 @@ theme = "hallo"
         url = ""
 
     [params.currentEpisode]
-        title = "Männerabend und Pizza"
+        title = "Hier sinnfreien Titel eintragen"
 
         [[params.currentEpisode.links]]
             title = "Spotify"
-            url = "https://open.spotify.com/episode/08FtIkeMzONvg98OogJtgF"
+            url = "https://open.spotify.com/episode/13uorTpJRVIrW87Qbqw27u?si=ZVRdxyEnT-CVXrUxIXLUiA"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = "https://podcasts.apple.com/us/podcast/m%C3%A4nnerabend-und-pizza/id1507539185?i=1000497607437"
+            url = "https://podcasts.apple.com/us/podcast/hier-sinnfreien-titel-eintragen/id1507539185?i=1000498624044"
         [[params.currentEpisode.links]]
             title = "Google Podcasts"
-            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/MzZjNDk3NDFlZjI4NWYyYTY3OGIwNTljNDhjYjBhNWM"
+            url = ""
         [[params.currentEpisode.links]]
             title = "Deezer"
-            url = "https://deezer.page.link/7A5M45rf1cNr4gAY7"
+            url = "https://deezer.page.link/1W9rMP1wrHSSGJuj7"
 
 [params.colors]
     background = "black"
