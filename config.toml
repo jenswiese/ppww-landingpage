@@ -36,20 +36,20 @@ theme = "hallo"
         url = ""
 
     [params.currentEpisode]
-        title = "Hier sinnfreien Titel eintragen"
+        title = "Der halbe Vollbart"
 
         [[params.currentEpisode.links]]
             title = "Spotify"
-            url = "https://open.spotify.com/episode/13uorTpJRVIrW87Qbqw27u?si=ZVRdxyEnT-CVXrUxIXLUiA"
+            url = "https://open.spotify.com/episode/7MVszqwN8K0VqWPaU5i4Kd?si=HNIOZKssRNCeizajbXayxQ"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = "https://podcasts.apple.com/us/podcast/hier-sinnfreien-titel-eintragen/id1507539185?i=1000498624044"
-        [[params.currentEpisode.links]]
-            title = "Google Podcasts"
             url = ""
         [[params.currentEpisode.links]]
+            title = "Google Podcasts"
+            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/NjIwMGFlMWYwYTgyNTQyZTNmMTExODM5OTM0MDRhMjU?sa=X&ved=0CAUQkfYCahcKEwjYi6Dr-pTtAhUAAAAAHQAAAAAQAQ"
+        [[params.currentEpisode.links]]
             title = "Deezer"
-            url = "https://deezer.page.link/1W9rMP1wrHSSGJuj7"
+            url = ""
 
 [params.colors]
     background = "black"
