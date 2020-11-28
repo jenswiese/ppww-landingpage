@@ -36,17 +36,17 @@ theme = "hallo"
         url = ""
 
     [params.currentEpisode]
-        title = "Der halbe Vollbart"
+        title = "Kinderpunsch mit Schuss"
 
         [[params.currentEpisode.links]]
             title = "Spotify"
-            url = "https://open.spotify.com/episode/7MVszqwN8K0VqWPaU5i4Kd?si=HNIOZKssRNCeizajbXayxQ"
+            url = "https://open.spotify.com/episode/1ooGozSuvDGvAIkmHul8Gc?si=29vASwvrRDac1RTb-kcHiw"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en#episodeGuid=6200ae1f0a82542e3f11183993404a25"
+            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en&i=1000500627743"
         [[params.currentEpisode.links]]
             title = "Google Podcasts"
-            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/NjIwMGFlMWYwYTgyNTQyZTNmMTExODM5OTM0MDRhMjU?sa=X&ved=0CAUQkfYCahcKEwjYi6Dr-pTtAhUAAAAAHQAAAAAQAQ"
+            url = ""
         [[params.currentEpisode.links]]
             title = "Deezer"
             url = ""
