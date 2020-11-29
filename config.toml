@@ -49,7 +49,7 @@ theme = "hallo"
             url = ""
         [[params.currentEpisode.links]]
             title = "Deezer"
-            url = ""
+            url = "https://deezer.page.link/xkjBdqPozjyhXEcR8"
 
 [params.colors]
     background = "black"
