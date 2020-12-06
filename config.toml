@@ -36,20 +36,20 @@ theme = "hallo"
         url = ""
 
     [params.currentEpisode]
-        title = "Kinderpunsch mit Schuss"
+        title = "Die kleine Tanne will leben"
 
         [[params.currentEpisode.links]]
             title = "Spotify"
-            url = "https://open.spotify.com/episode/1ooGozSuvDGvAIkmHul8Gc?si=29vASwvrRDac1RTb-kcHiw"
+            url = "https://open.spotify.com/episode/2gZnGhO993qyz7TkYF21dS?si=6GGsS6SNSyeOAynxgHo7ag"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en&i=1000500627743"
+            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en#episodeGuid=795c52766bfcce3e7b10259d23d48eb5"
         [[params.currentEpisode.links]]
             title = "Google Podcasts"
-            url = ""
+            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/Nzk1YzUyNzY2YmZjY2UzZTdiMTAyNTlkMjNkNDhlYjU"
         [[params.currentEpisode.links]]
             title = "Deezer"
-            url = "https://deezer.page.link/xkjBdqPozjyhXEcR8"
+            url = "https://deezer.page.link/yYFYxTgazASNnrVN8"
 
 [params.colors]
     background = "black"
