@@ -43,13 +43,13 @@ theme = "hallo"
             url = "https://open.spotify.com/episode/37PmqBB2fgRGhZsyH43ozn"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = ""
+            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en#episodeGuid=95d03714bf26e5a1723824d9161297d4"
         [[params.currentEpisode.links]]
             title = "Google Podcasts"
             url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/OTVkMDM3MTRiZjI2ZTVhMTcyMzgyNGQ5MTYxMjk3ZDQ"
         [[params.currentEpisode.links]]
             title = "Deezer"
-            url = ""
+            url = "https://deezer.page.link/NgQp3jeDDzVwhkKi6"
 
 [params.colors]
     background = "black"
