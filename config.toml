@@ -32,24 +32,24 @@ theme = "hallo"
         url = "https://ppww.podigee.io/feed/mp3"
 
     [params.special]
-        title = "Etwas verspätet, aber sehr sehr gut: Unser Weihnachtsong"
-        url = "https://soundcloud.com/ppww-podcast/let-it-snow-2020/s-Ecl2rpJffU7"
+        title = ""
+        url = ""
 
     [params.currentEpisode]
-        title = "Weihnachtsferien im Escape-Room"
+        title = "Und am Ende bleibt der Throat Bass"
 
         [[params.currentEpisode.links]]
             title = "Spotify"
-            url = "https://open.spotify.com/episode/37PmqBB2fgRGhZsyH43ozn"
+            url = "https://open.spotify.com/episode/0Iijk6l7WRaazCj28FPQrV"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en#episodeGuid=95d03714bf26e5a1723824d9161297d4"
+            url = ""
         [[params.currentEpisode.links]]
             title = "Google Podcasts"
-            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/OTVkMDM3MTRiZjI2ZTVhMTcyMzgyNGQ5MTYxMjk3ZDQ"
+            url = ""
         [[params.currentEpisode.links]]
             title = "Deezer"
-            url = "https://deezer.page.link/NgQp3jeDDzVwhkKi6"
+            url = ""
 
 [params.colors]
     background = "black"
