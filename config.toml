@@ -36,20 +36,20 @@ theme = "hallo"
         url = ""
 
     [params.currentEpisode]
-        title = "Und am Ende bleibt der Throat Bass"
+        title = "Schmarre vs. Schramme"
 
         [[params.currentEpisode.links]]
             title = "Spotify"
-            url = "https://open.spotify.com/episode/0Iijk6l7WRaazCj28FPQrV"
+            url = "https://open.spotify.com/episode/3FCknLO4jMuGyejIE1nxE8"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en#episodeGuid=c2388d1658027affe015712f04135fca"
-        [[params.currentEpisode.links]]
-            title = "Google Podcasts"
             url = ""
         [[params.currentEpisode.links]]
+            title = "Google Podcasts"
+            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/MGYyMTQxYmZlZDg5ZTFkYmI4ODUxMDVkZDg5MjA5OWU"
+        [[params.currentEpisode.links]]
             title = "Deezer"
-            url = "https://deezer.page.link/abhnVXmFCxbyFnhv7"
+            url = ""
 
 [params.colors]
     background = "black"
