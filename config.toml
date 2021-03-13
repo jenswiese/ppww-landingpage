@@ -40,16 +40,16 @@ theme = "hallo"
 
         [[params.currentEpisode.links]]
             title = "Spotify"
-            url = "https://open.spotify.com/episode/3FCknLO4jMuGyejIE1nxE8"
+            url = "https://open.spotify.com/show/5bkojM6HVGiWwcKAGFqwL0"
         [[params.currentEpisode.links]]
             title = "Apple Podcasts"
-            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=en#episodeGuid=0f2141bfed89e1dbb885105dd892099e"
+            url = "https://podcasts.apple.com/de/podcast/piffle-paffle-wiffle-waffle-podcast/id1507539185?l=de"
         [[params.currentEpisode.links]]
             title = "Google Podcasts"
-            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM/episode/MGYyMTQxYmZlZDg5ZTFkYmI4ODUxMDVkZDg5MjA5OWU"
+            url = "https://podcasts.google.com/feed/aHR0cHM6Ly9wcHd3LnBvZGlnZWUuaW8vZmVlZC9tcDM"
         [[params.currentEpisode.links]]
             title = "Deezer"
-            url = "https://deezer.page.link/yhDaLSX8p4KYXQ9R7"
+            url = "https://deezer.page.link/e95gpNUbwVj3tPG28"
 
 [params.colors]
     background = "black"
